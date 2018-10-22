@@ -1,5 +1,5 @@
 #!/bin/bash
-source /home/c7/SreMonitoringBot/venv/bin/activate
+source /home/c7/SreMonitoringBotS28/venv/bin/activate
 while true
 do
 count=1
